@@ -1,6 +1,6 @@
 # README
 
-![](cover.png)
+![](cover.jpg)
 
 在简书上阅读： [https://www.jianshu.com/p/04d180d90a3f](https://www.jianshu.com/p/04d180d90a3f)
 

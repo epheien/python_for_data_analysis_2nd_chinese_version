@@ -1,5 +1,5 @@
 # SUMMARY
- * [README](README.md)
+ * [简介](README.md)
  * [第01章 准备工作](第01章 准备工作.md)
  * [第02章 Python语法基础，IPython和Jupyter Notebooks](第02章 Python语法基础，IPython和Jupyter Notebooks.md)
  * [第03章 Python的数据结构、函数和文件](第03章 Python的数据结构、函数和文件.md)
